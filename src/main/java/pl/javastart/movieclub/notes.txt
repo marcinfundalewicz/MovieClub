@@ -1,0 +1,2 @@
+Dzieki validate w application.yml Hibernate sprawdzi czy utworzony schemat baz danych jest zgodny
+z klasami encji w projekcie.
