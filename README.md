@@ -1,0 +1,6 @@
+![m1](https://github.com/marcinfundalewicz/MovieClub/assets/155818684/5064add9-d5e0-4a4e-b0ec-f008810daf6b)
+![m2](https://github.com/marcinfundalewicz/MovieClub/assets/155818684/55f25ca9-5784-4410-bec4-9adb35addfa3)
+![m3](https://github.com/marcinfundalewicz/MovieClub/assets/155818684/5b22e144-1938-4a59-9503-fe3bf95e9446)
+![m4](https://github.com/marcinfundalewicz/MovieClub/assets/155818684/7b515d3a-5469-4ba5-b1a3-4c8d63466f31)
+![m5](https://github.com/marcinfundalewicz/MovieClub/assets/155818684/9fb89403-6497-40ef-ba9c-10981e2bce52)
+![m6](https://github.com/marcinfundalewicz/MovieClub/assets/155818684/f1ee0efb-720e-46ae-bbd1-72eeca6903d7)
